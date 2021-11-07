@@ -20,9 +20,9 @@ From the below dataframe image we can see:
 From further analysis, shown in the below image, we can see:
 -	From the company’s 9 departments, most of the Senior Engineers and Staff are from the following departments:
 
-  o	D004: Production
-  o	D005: Development
-  o	D007: Sales
+  - D004: Production
+  - D005: Development
+  - D007: Sales
 
 ![ Fig2.png](https://github.com/lmacera/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Employee_Database_challenge/Fig%202.PNG )
 ### Mentorship by Title Analysis
@@ -35,10 +35,10 @@ From the below dataframe image we can see:
 From further analysis, shown in the below image, we can see:
 -	From the company’s 7 departments, most of the Senior Engineers and Staff are from the following departments:
 
-  o	D004: Production
-  o	D005: Development
-  o	D007: Sales
-  o	D001: Marketing
+  -	D004: Production
+  - D005: Development
+  - D007: Sales
+  - D001: Marketing
 
 ![ Fig4.png](https://github.com/lmacera/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Employee_Database_challenge/Fig%204.PNG )
 
