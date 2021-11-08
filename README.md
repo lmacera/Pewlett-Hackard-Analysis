@@ -42,6 +42,6 @@ From further analysis, shown in the below image, we can see:
 
 ![ Fig4.png](https://github.com/lmacera/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Employee_Database_challenge/Fig%204.PNG )
 
+## Results 
 
-##Summary
 In summary Pewlett-Hackard is going to see 90,398 employees reaching retirement age and only 1,549 are eligible mentors. Unfortunately, from this analysis there’s not enough qualified retirement-ready employees to mentor the next generation of Pewlett Hackard employees. In the above analysis we combined our emp_dep table with our retiring _titles table and mentorship _eligibility table and saw the departments most affected are Production, Development, and Sales.
